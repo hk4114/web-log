@@ -1,0 +1,26 @@
+{
+  "name": "web-console-logger",
+  "version": "1.0.0",
+  "description": "console.log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hk4114/web-log.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hk4114/web-log/issues"
+  },
+  "author": "hk4114",
+  "keywords": [
+    "log",
+    "browser log"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
